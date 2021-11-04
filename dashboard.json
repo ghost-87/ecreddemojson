@@ -1,0 +1,238 @@
+{
+    "Body": {
+        "Data": {
+            "DashboardSummary": [
+                {
+                    "CompliantCount": 0,
+                    "CompliantPercentage": 0,
+                    "EquipmentCategory": "All",
+                    "NoCredentialsCount": 543,
+                    "NonCompliantCount": 743,
+                    "NonCompliantPercentage": 100,
+                    "TotalCount": 743
+                },
+                {
+                    "CompliantCount": 0,
+                    "CompliantPercentage": 0,
+                    "EquipmentCategory": "Tractor",
+                    "NoCredentialsCount": 480,
+                    "NonCompliantCount": 589,
+                    "NonCompliantPercentage": 100,
+                    "TotalCount": 589
+                },
+                {
+                    "CompliantCount": 0,
+                    "CompliantPercentage": 0,
+                    "EquipmentCategory": "Trailer",
+                    "NoCredentialsCount": 63,
+                    "NonCompliantCount": 154,
+                    "NonCompliantPercentage": 100,
+                    "TotalCount": 154
+                }
+            ],
+            "MonthlyTrend": [
+                {
+                    "EquipmentCategory": "All",
+                    "Points": [
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Today",
+                            "NonCompliantCount": 743
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Dec",
+                            "NonCompliantCount": 743
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Jan",
+                            "NonCompliantCount": 743
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Feb",
+                            "NonCompliantCount": 743
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Mar",
+                            "NonCompliantCount": 743
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Apr",
+                            "NonCompliantCount": 743
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "May",
+                            "NonCompliantCount": 743
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Jun",
+                            "NonCompliantCount": 743
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Jul",
+                            "NonCompliantCount": 743
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Aug",
+                            "NonCompliantCount": 743
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Sep",
+                            "NonCompliantCount": 743
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Oct",
+                            "NonCompliantCount": 743
+                        }
+                    ]
+                },
+                {
+                    "EquipmentCategory": "Tractor",
+                    "Points": [
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Today",
+                            "NonCompliantCount": 589
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Dec",
+                            "NonCompliantCount": 589
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Jan",
+                            "NonCompliantCount": 589
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Feb",
+                            "NonCompliantCount": 589
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Mar",
+                            "NonCompliantCount": 589
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Apr",
+                            "NonCompliantCount": 589
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "May",
+                            "NonCompliantCount": 589
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Jun",
+                            "NonCompliantCount": 589
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Jul",
+                            "NonCompliantCount": 589
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Aug",
+                            "NonCompliantCount": 589
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Sep",
+                            "NonCompliantCount": 589
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Oct",
+                            "NonCompliantCount": 589
+                        }
+                    ]
+                },
+                {
+                    "EquipmentCategory": "Trailer",
+                    "Points": [
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Today",
+                            "NonCompliantCount": 154
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Dec",
+                            "NonCompliantCount": 154
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Jan",
+                            "NonCompliantCount": 154
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Feb",
+                            "NonCompliantCount": 154
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Mar",
+                            "NonCompliantCount": 154
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Apr",
+                            "NonCompliantCount": 154
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "May",
+                            "NonCompliantCount": 154
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Jun",
+                            "NonCompliantCount": 154
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Jul",
+                            "NonCompliantCount": 154
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Aug",
+                            "NonCompliantCount": 154
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Sep",
+                            "NonCompliantCount": 154
+                        },
+                        {
+                            "CompliantCount": 0,
+                            "Key": "Oct",
+                            "NonCompliantCount": 154
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "Header": {
+        "Code": 2,
+        "Message": null,
+        "Response": "OK",
+        "Success": true
+    }
+}

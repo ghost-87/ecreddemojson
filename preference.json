@@ -1,0 +1,21 @@
+{
+    "Body": {
+        "Data": {
+            "SortPreference": {
+                "EquipmentSortPreference": {
+                    "SortOrder": "DESC",
+                    "Sortby": {
+                        "FieldName": "CompanyAssignedNumber",
+                        "Label": "Unit#"
+                    }
+                }
+            }
+        }
+    },
+    "Header": {
+        "Code": 2,
+        "Message": null,
+        "Response": "OK",
+        "Success": true
+    }
+}

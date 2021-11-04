@@ -1,0 +1,790 @@
+{
+    "Body": {
+        "Data": {
+            "ItemCount": 10,
+            "Items": [
+                {
+                    "CompanyAccountNumber": "1000",
+                    "CompanyAssignedNumber": "MT8256",
+                    "EquipmentCategory": {
+                        "Id": 1,
+                        "Name": "Tractor"
+                    },
+                    "EquipmentType": "Heavy Truck-Roll-Off",
+                    "IsArchived": false,
+                    "LicensePlate": {
+                        "Key": "WI-TB6161",
+                        "Number": "TB6161",
+                        "State": "WI"
+                    },
+                    "Location": {
+                        "City": "Fond du Lac",
+                        "Region": "",
+                        "State": "WI"
+                    },
+                    "TruckId": "1934",
+                    "VIN": "1M2AX16C5JM042256",
+                    "ArchiveDate": null,
+                    "Documents": [
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "5fe7727fa1f54b608013217ce5acc837",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "4\/30\/2020 5:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Alcohol Permit",
+                            "truckIds": null
+                        },
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "df0bca41dd654c99996b4fd2510b18fb",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "5\/29\/2020 6:30:00 PM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "IFTA License",
+                            "truckIds": null
+                        },
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "65c50700e5d44371b23c7a1179367574",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "12\/30\/2022 6:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Binder Documents",
+                            "truckIds": null
+                        }
+                    ],
+                    "Drivers": [],
+                    "EquipmentGroups": [
+                        {
+                            "Description": "This is for the new stack 2",
+                            "EquipmentCount": 0,
+                            "EquipmentGroupId": 188,
+                            "Name": "New stack 2"
+                        },
+                        {
+                            "Description": "Sanity Test ",
+                            "EquipmentCount": 0,
+                            "EquipmentGroupId": 160,
+                            "Name": "Sen Test"
+                        }
+                    ]
+                },
+                {
+                    "CompanyAccountNumber": "1000",
+                    "CompanyAssignedNumber": "KJ1499",
+                    "EquipmentCategory": {
+                        "Id": 1,
+                        "Name": "Tractor"
+                    },
+                    "EquipmentType": "Van",
+                    "IsArchived": false,
+                    "LicensePlate": {
+                        "Key": "CA-MX 2699",
+                        "Number": "MX 2699",
+                        "State": "CA"
+                    },
+                    "Location": {
+                        "City": "Mexico",
+                        "Region": "Mexico",
+                        "State": "CA"
+                    },
+                    "TruckId": "2436",
+                    "VIN": "19UUA8F50AA010912",
+                    "ArchiveDate": null,
+                    "Documents": [
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "5fe7727fa1f54b608013217ce5acc837",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "4\/30\/2020 5:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Alcohol Permit",
+                            "truckIds": null
+                        },
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "65c50700e5d44371b23c7a1179367574",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "12\/30\/2022 6:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Binder Documents",
+                            "truckIds": null
+                        }
+                    ],
+                    "Drivers": [],
+                    "EquipmentGroups": [
+                        {
+                            "Description": "Sanity Test",
+                            "EquipmentCount": 0,
+                            "EquipmentGroupId": 160,
+                            "Name": "Sen Test"
+                        }
+                    ]
+                },
+                {
+                    "CompanyAccountNumber": "1000",
+                    "CompanyAssignedNumber": "KJ1498",
+                    "EquipmentCategory": {
+                        "Id": 1,
+                        "Name": "Tractor"
+                    },
+                    "EquipmentType": "Van",
+                    "IsArchived": false,
+                    "LicensePlate": {
+                        "Key": "CA-MX 2698",
+                        "Number": "MX 2698",
+                        "State": "CA"
+                    },
+                    "Location": {
+                        "City": "Mexico",
+                        "Region": "Mexico",
+                        "State": "CA"
+                    },
+                    "TruckId": "2437",
+                    "VIN": "19UUA8F50AA010911",
+                    "ArchiveDate": null,
+                    "Documents": [
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "5fe7727fa1f54b608013217ce5acc837",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "4\/30\/2020 5:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Alcohol Permit",
+                            "truckIds": null
+                        },
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "65c50700e5d44371b23c7a1179367574",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "12\/30\/2022 6:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Binder Documents",
+                            "truckIds": null
+                        }
+                    ],
+                    "Drivers": [],
+                    "EquipmentGroups": [
+                        {
+                            "Description": "Sanity Test ",
+                            "EquipmentCount": 0,
+                            "EquipmentGroupId": 160,
+                            "Name": "Sen Test"
+                        }
+                    ]
+                },
+                {
+                    "CompanyAccountNumber": "1000",
+                    "CompanyAssignedNumber": "KJ1497",
+                    "EquipmentCategory": {
+                        "Id": 1,
+                        "Name": "Tractor"
+                    },
+                    "EquipmentType": "Van",
+                    "IsArchived": false,
+                    "LicensePlate": {
+                        "Key": "CA-MX 2697",
+                        "Number": "MX 2697",
+                        "State": "CA"
+                    },
+                    "Location": {
+                        "City": "Mexico",
+                        "Region": "Mexico",
+                        "State": "CA"
+                    },
+                    "TruckId": "2076",
+                    "VIN": "19UUA8F50AA010910",
+                    "ArchiveDate": null,
+                    "Documents": [
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "5fe7727fa1f54b608013217ce5acc837",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "4\/30\/2020 5:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Alcohol Permit",
+                            "truckIds": null
+                        },
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "df0bca41dd654c99996b4fd2510b18fb",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "5\/29\/2020 6:30:00 PM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "IFTA License",
+                            "truckIds": null
+                        },
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "65c50700e5d44371b23c7a1179367574",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "12\/30\/2022 6:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Binder Documents",
+                            "truckIds": null
+                        }
+                    ],
+                    "Drivers": [],
+                    "EquipmentGroups": [
+                        {
+                            "Description": "This is for the new stack 2",
+                            "EquipmentCount": 0,
+                            "EquipmentGroupId": 188,
+                            "Name": "New stack 2"
+                        },
+                        {
+                            "Description": "Sanity Test ",
+                            "EquipmentCount": 0,
+                            "EquipmentGroupId": 160,
+                            "Name": "Sen Test"
+                        }
+                    ]
+                },
+                {
+                    "CompanyAccountNumber": "1000",
+                    "CompanyAssignedNumber": "KJ1496",
+                    "EquipmentCategory": {
+                        "Id": 1,
+                        "Name": "Tractor"
+                    },
+                    "EquipmentType": "Van",
+                    "IsArchived": false,
+                    "LicensePlate": {
+                        "Key": "CA-MX 2696",
+                        "Number": "MX 2696",
+                        "State": "CA"
+                    },
+                    "Location": {
+                        "City": "Mexico",
+                        "Region": "Mexico",
+                        "State": "CA"
+                    },
+                    "TruckId": "2077",
+                    "VIN": "19UUA8F50AA010909",
+                    "ArchiveDate": null,
+                    "Documents": [
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "5fe7727fa1f54b608013217ce5acc837",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "4\/30\/2020 5:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Alcohol Permit",
+                            "truckIds": null
+                        },
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "df0bca41dd654c99996b4fd2510b18fb",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "5\/29\/2020 6:30:00 PM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "IFTA License",
+                            "truckIds": null
+                        },
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "65c50700e5d44371b23c7a1179367574",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "12\/30\/2022 6:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Binder Documents",
+                            "truckIds": null
+                        }
+                    ],
+                    "Drivers": [],
+                    "EquipmentGroups": [
+                        {
+                            "Description": "This is for the new stack 2",
+                            "EquipmentCount": 0,
+                            "EquipmentGroupId": 188,
+                            "Name": "New stack 2"
+                        },
+                        {
+                            "Description": "Sanity Test ",
+                            "EquipmentCount": 0,
+                            "EquipmentGroupId": 160,
+                            "Name": "Sen Test"
+                        }
+                    ]
+                },
+                {
+                    "CompanyAccountNumber": "1000",
+                    "CompanyAssignedNumber": "KJ1495",
+                    "EquipmentCategory": {
+                        "Id": 1,
+                        "Name": "Tractor"
+                    },
+                    "EquipmentType": "Van",
+                    "IsArchived": false,
+                    "LicensePlate": {
+                        "Key": "CA-MX 2695",
+                        "Number": "MX 2695",
+                        "State": "CA"
+                    },
+                    "Location": {
+                        "City": "Mexico",
+                        "Region": "Mexico",
+                        "State": "CA"
+                    },
+                    "TruckId": "2078",
+                    "VIN": "19UUA8F50AA010908",
+                    "ArchiveDate": null,
+                    "Documents": [
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "5fe7727fa1f54b608013217ce5acc837",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "4\/30\/2020 5:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Alcohol Permit",
+                            "truckIds": null
+                        },
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "df0bca41dd654c99996b4fd2510b18fb",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "5\/29\/2020 6:30:00 PM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "IFTA License",
+                            "truckIds": null
+                        },
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "65c50700e5d44371b23c7a1179367574",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "12\/30\/2022 6:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Binder Documents",
+                            "truckIds": null
+                        }
+                    ],
+                    "Drivers": [],
+                    "EquipmentGroups": [
+                        {
+                            "Description": "This is for the new stack 2",
+                            "EquipmentCount": 0,
+                            "EquipmentGroupId": 188,
+                            "Name": "New stack 2"
+                        },
+                        {
+                            "Description": "Sanity Test ",
+                            "EquipmentCount": 0,
+                            "EquipmentGroupId": 160,
+                            "Name": "Sen Test"
+                        }
+                    ]
+                },
+                {
+                    "CompanyAccountNumber": "1000",
+                    "CompanyAssignedNumber": "KJ1494",
+                    "EquipmentCategory": {
+                        "Id": 1,
+                        "Name": "Tractor"
+                    },
+                    "EquipmentType": "Van",
+                    "IsArchived": false,
+                    "LicensePlate": {
+                        "Key": "CA-MX 2694",
+                        "Number": "MX 2694",
+                        "State": "CA"
+                    },
+                    "Location": {
+                        "City": "Mexico",
+                        "Region": "Mexico",
+                        "State": "CA"
+                    },
+                    "TruckId": "2079",
+                    "VIN": "19UUA8F50AA010907",
+                    "ArchiveDate": null,
+                    "Documents": [
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "5fe7727fa1f54b608013217ce5acc837",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "4\/30\/2020 5:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Alcohol Permit",
+                            "truckIds": null
+                        },
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "df0bca41dd654c99996b4fd2510b18fb",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "5\/29\/2020 6:30:00 PM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "IFTA License",
+                            "truckIds": null
+                        },
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "65c50700e5d44371b23c7a1179367574",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "12\/30\/2022 6:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Binder Documents",
+                            "truckIds": null
+                        }
+                    ],
+                    "Drivers": [],
+                    "EquipmentGroups": [
+                        {
+                            "Description": "This is for the new stack 2",
+                            "EquipmentCount": 0,
+                            "EquipmentGroupId": 188,
+                            "Name": "New stack 2"
+                        },
+                        {
+                            "Description": "Sanity Test ",
+                            "EquipmentCount": 0,
+                            "EquipmentGroupId": 160,
+                            "Name": "Sen Test"
+                        }
+                    ]
+                },
+                {
+                    "CompanyAccountNumber": "1000",
+                    "CompanyAssignedNumber": "KJ1493",
+                    "EquipmentCategory": {
+                        "Id": 1,
+                        "Name": "Tractor"
+                    },
+                    "EquipmentType": "Van",
+                    "IsArchived": false,
+                    "LicensePlate": {
+                        "Key": "CA-MX 2693",
+                        "Number": "MX 2693",
+                        "State": "CA"
+                    },
+                    "Location": {
+                        "City": "Mexico",
+                        "Region": "Mexico",
+                        "State": "CA"
+                    },
+                    "TruckId": "2080",
+                    "VIN": "19UUA8F50AA010906",
+                    "ArchiveDate": null,
+                    "Documents": [
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "df0bca41dd654c99996b4fd2510b18fb",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "5\/29\/2020 6:30:00 PM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "IFTA License",
+                            "truckIds": null
+                        },
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "65c50700e5d44371b23c7a1179367574",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "12\/30\/2022 6:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Binder Documents",
+                            "truckIds": null
+                        }
+                    ],
+                    "Drivers": [],
+                    "EquipmentGroups": [
+                        {
+                            "Description": "This is for the new stack 2",
+                            "EquipmentCount": 0,
+                            "EquipmentGroupId": 188,
+                            "Name": "New stack 2"
+                        }
+                    ]
+                },
+                {
+                    "CompanyAccountNumber": "1000",
+                    "CompanyAssignedNumber": "KJ1492",
+                    "EquipmentCategory": {
+                        "Id": 1,
+                        "Name": "Tractor"
+                    },
+                    "EquipmentType": "Van",
+                    "IsArchived": false,
+                    "LicensePlate": {
+                        "Key": "CA-MX 2692",
+                        "Number": "MX 2692",
+                        "State": "CA"
+                    },
+                    "Location": {
+                        "City": "Mexico",
+                        "Region": "Mexico",
+                        "State": "CA"
+                    },
+                    "TruckId": "2081",
+                    "VIN": "19UUA8F50AA010905",
+                    "ArchiveDate": null,
+                    "Documents": [
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "df0bca41dd654c99996b4fd2510b18fb",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "5\/29\/2020 6:30:00 PM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "IFTA License",
+                            "truckIds": null
+                        },
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "65c50700e5d44371b23c7a1179367574",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "12\/30\/2022 6:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Binder Documents",
+                            "truckIds": null
+                        }
+                    ],
+                    "Drivers": [],
+                    "EquipmentGroups": [
+                        {
+                            "Description": "This is for the new stack 2",
+                            "EquipmentCount": 0,
+                            "EquipmentGroupId": 188,
+                            "Name": "New stack 2"
+                        }
+                    ]
+                },
+                {
+                    "CompanyAccountNumber": "1000",
+                    "CompanyAssignedNumber": "KJ1491",
+                    "EquipmentCategory": {
+                        "Id": 1,
+                        "Name": "Tractor"
+                    },
+                    "EquipmentType": "Van",
+                    "IsArchived": false,
+                    "LicensePlate": {
+                        "Key": "CA-MX 2691",
+                        "Number": "MX 2691",
+                        "State": "CA"
+                    },
+                    "Location": {
+                        "City": "Mexico",
+                        "Region": "Mexico",
+                        "State": "CA"
+                    },
+                    "TruckId": "2082",
+                    "VIN": "19UUA8F50AA010904",
+                    "ArchiveDate": null,
+                    "Documents": [
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "df0bca41dd654c99996b4fd2510b18fb",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "5\/29\/2020 6:30:00 PM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "IFTA License",
+                            "truckIds": null
+                        },
+                        {
+                            "ArchiveDate": null,
+                            "DotNumber": null,
+                            "IsArchived": false,
+                            "createdOn": null,
+                            "documentId": "65c50700e5d44371b23c7a1179367574",
+                            "equipmentGroupIds": null,
+                            "equipmentGroups": null,
+                            "expiration": "12\/30\/2022 6:00:00 AM",
+                            "isFileUploaded": false,
+                            "lastUpdated": null,
+                            "mimeType": null,
+                            "name": null,
+                            "permitType": "Binder Documents",
+                            "truckIds": null
+                        }
+                    ],
+                    "Drivers": [],
+                    "EquipmentGroups": [
+                        {
+                            "Description": "This is for the new stack 2",
+                            "EquipmentCount": 0,
+                            "EquipmentGroupId": 188,
+                            "Name": "New stack 2"
+                        }
+                    ]
+                }
+            ],
+            "MaxItemsPerPage": 10,
+            "Page": 1,
+            "TotalItemCount": 743,
+            "TotalItemCountMessage": null,
+            "TotalPageCount": 75
+        }
+    },
+    "Header": {
+        "Code": 2,
+        "Message": "OK",
+        "Response": "OK",
+        "Success": true
+    }
+}

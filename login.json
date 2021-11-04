@@ -1,0 +1,37 @@
+{
+    "Body": {
+        "Data": {
+            "AccountNumber": "1151",
+            "Address": {
+                "City": "",
+                "Country": "USA",
+                "State": "",
+                "Street": "",
+                "Zip": "",
+                "ZipExt": null
+            },
+            "Email": "tedyk@truckstop.com",
+            "FirstName": "Tedy",
+            "LastName": "Kanjirathinkal",
+            "Name": "Tedy Kanjirathinkal",
+            "AuthToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjExNTEiLCJuYmYiOjE2MzYwMTg1ODAsImV4cCI6MTYzNjAyMjE4MCwiaWF0IjoxNjM2MDE4NTgwLCJpc3MiOiJlY3JlZGVudGFpbHMiLCJhdWQiOiJlY3JlZGVudGlhbHMtdWktYXBwIn0.FBsAjtndIC6Nx2Nh1N11frXTutRFpbohh3pYOFKcxfM",
+            "CompanyRoles": [
+                {
+                    "DotNumber": "123456",
+                    "OrgAccountNumber": "1000",
+                    "OrgType": "Company",
+                    "Role": "Manager",
+                    "UserAccountNumber": "1151"
+                }
+            ],
+            "IsTermsAndConditionsAccepted": false,
+            "LastReadTerms": []
+        }
+    },
+    "Header": {
+        "Code": 2,
+        "Message": null,
+        "Response": "OK",
+        "Success": true
+    }
+}

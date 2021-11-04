@@ -1,0 +1,1040 @@
+{
+    "Body": {
+        "Data": {
+            "ItemCount": 23,
+            "Items": [
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "4\/11\/2020 3:57:25 PM",
+                    "documentId": "2a8cb40e38224117a9b35d7ecac2ef28",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "4\/11\/2021 3:57:19 PM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Vapor Form - Chevron",
+                    "truckIds": [
+                        "2611"
+                    ],
+                    "Trucks": [
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "A21",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Dry Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "",
+                                "Number": "",
+                                "State": ""
+                            },
+                            "Location": {
+                                "City": "",
+                                "Region": "",
+                                "State": ""
+                            },
+                            "TruckId": "2611",
+                            "VIN": "KMHCT4AE1DU293374"
+                        }
+                    ]
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "4\/11\/2020 4:03:32 PM",
+                    "documentId": "c597b9a7ecbf4c4db30764fb441f56aa",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "8\/27\/2020 5:00:00 AM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Arizona Overweight\/Overlength Permit",
+                    "truckIds": [
+                        "1271",
+                        "1272",
+                        "2054",
+                        "2055",
+                        "2056",
+                        "2057",
+                        "2058",
+                        "2059",
+                        "2060",
+                        "2068"
+                    ],
+                    "Trucks": [
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Flat Bed",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "AZ-guk",
+                                "Number": "guk",
+                                "State": "AZ"
+                            },
+                            "Location": {
+                                "City": "",
+                                "Region": "",
+                                "State": ""
+                            },
+                            "TruckId": "1271",
+                            "VIN": ""
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Chassis",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "CA-76054X",
+                                "Number": "76054X",
+                                "State": "CA"
+                            },
+                            "Location": {
+                                "City": "",
+                                "Region": "",
+                                "State": ""
+                            },
+                            "TruckId": "1272",
+                            "VIN": ""
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "",
+                                "Number": "",
+                                "State": ""
+                            },
+                            "Location": {
+                                "City": "",
+                                "Region": "",
+                                "State": ""
+                            },
+                            "TruckId": "2054",
+                            "VIN": "5NPDH4AE7DH378904"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "",
+                                "Number": "",
+                                "State": ""
+                            },
+                            "Location": {
+                                "City": "",
+                                "Region": "",
+                                "State": ""
+                            },
+                            "TruckId": "2055",
+                            "VIN": "2T1BURHE2FC354361"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "",
+                                "Number": "",
+                                "State": ""
+                            },
+                            "Location": {
+                                "City": "",
+                                "Region": "",
+                                "State": ""
+                            },
+                            "TruckId": "2056",
+                            "VIN": "JTDKB20U183257549"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "",
+                                "Number": "",
+                                "State": ""
+                            },
+                            "Location": {
+                                "City": "",
+                                "Region": "",
+                                "State": ""
+                            },
+                            "TruckId": "2057",
+                            "VIN": "1NXBR32E78Z005463"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "",
+                                "Number": "",
+                                "State": ""
+                            },
+                            "Location": {
+                                "City": "",
+                                "Region": "",
+                                "State": ""
+                            },
+                            "TruckId": "2058",
+                            "VIN": "WBAGL63585DP65681"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "",
+                                "Number": "",
+                                "State": ""
+                            },
+                            "Location": {
+                                "City": "",
+                                "Region": "",
+                                "State": ""
+                            },
+                            "TruckId": "2059",
+                            "VIN": "WBAGN63423DR42790"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Semi Trailer-GONDOLA ",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "",
+                                "Number": "",
+                                "State": ""
+                            },
+                            "Location": {
+                                "City": "",
+                                "Region": "",
+                                "State": ""
+                            },
+                            "TruckId": "2060",
+                            "VIN": "1G1JC5SH3E4245296"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Other",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "",
+                                "Number": "",
+                                "State": ""
+                            },
+                            "Location": {
+                                "City": "",
+                                "Region": "",
+                                "State": ""
+                            },
+                            "TruckId": "2068",
+                            "VIN": "YV1VW2551YF445936"
+                        }
+                    ]
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "4\/11\/2020 4:03:32 PM",
+                    "documentId": "3cb51dcc92e3400885813c0df2b27240",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "8\/26\/2020 5:00:00 AM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Vapor Form - Tesoro\/Marathon",
+                    "truckIds": [
+                        "2610"
+                    ],
+                    "Trucks": [
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "A22",
+                            "EquipmentCategory": {
+                                "Id": 2,
+                                "Name": "Trailer"
+                            },
+                            "EquipmentType": "Dry Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "",
+                                "Number": "",
+                                "State": ""
+                            },
+                            "Location": {
+                                "City": "",
+                                "Region": "",
+                                "State": ""
+                            },
+                            "TruckId": "2610",
+                            "VIN": "1D7GG16X33S399571"
+                        }
+                    ]
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "4\/11\/2020 4:03:32 PM",
+                    "documentId": "b6ec1592f6e744529ddb3f0e4c98da85",
+                    "equipmentGroupIds": [
+                        159
+                    ],
+                    "equipmentGroups": [],
+                    "expiration": "5\/28\/2020 5:00:00 AM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Vapor Form - (I) - 5 Year Internal Inspection",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "4\/11\/2020 4:03:32 PM",
+                    "documentId": "f651c906aaca42d78b8a5d71d259fa25",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "11\/26\/2020 6:00:00 AM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Montana Overweight\/Overlength Permit",
+                    "truckIds": [
+                        "1271",
+                        "2059"
+                    ],
+                    "Trucks": [
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Flat Bed",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "AZ-guk",
+                                "Number": "guk",
+                                "State": "AZ"
+                            },
+                            "Location": {
+                                "City": "",
+                                "Region": "",
+                                "State": ""
+                            },
+                            "TruckId": "1271",
+                            "VIN": ""
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "",
+                                "Number": "",
+                                "State": ""
+                            },
+                            "Location": {
+                                "City": "",
+                                "Region": "",
+                                "State": ""
+                            },
+                            "TruckId": "2059",
+                            "VIN": "WBAGN63423DR42790"
+                        }
+                    ]
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "4\/17\/2020 3:35:52 PM",
+                    "documentId": "0975103e3e05409aaf3379bffa54a073",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "10\/22\/2020 6:30:00 PM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Vapor Form - Tesoro\/Marathon",
+                    "truckIds": [
+                        "2609"
+                    ],
+                    "Trucks": [
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Sprinter",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "",
+                                "Number": "",
+                                "State": ""
+                            },
+                            "Location": {
+                                "City": "",
+                                "Region": "",
+                                "State": ""
+                            },
+                            "TruckId": "2609",
+                            "VIN": "vine1"
+                        }
+                    ]
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "4\/20\/2020 4:41:09 PM",
+                    "documentId": "02bc386d2b6849f6b65da4b6e9bd864d",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "4\/29\/2020 5:00:00 AM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Arizona Overweight\/Overlength Permit",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "4\/21\/2020 6:43:20 PM",
+                    "documentId": "5fe7727fa1f54b608013217ce5acc837",
+                    "equipmentGroupIds": [
+                        159,
+                        160
+                    ],
+                    "equipmentGroups": [],
+                    "expiration": "4\/30\/2020 5:00:00 AM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Alcohol Permit",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "5\/13\/2020 8:52:16 AM",
+                    "documentId": "3a0c86ddcf2c489f91606948077b6c68",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "5\/27\/2020 6:30:00 PM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Alcohol Permit",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "5\/13\/2020 1:10:40 PM",
+                    "documentId": "1f15a38f78ec420db2c9118a3a717368",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "5\/26\/2020 6:30:00 PM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Alliance for Uniform Hazmat Transportation License",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "5\/14\/2020 7:35:41 AM",
+                    "documentId": "3384f9876b4c436f9ec9e196602ae254",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "5\/19\/2020 6:30:00 PM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Binder Documents",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "5\/18\/2020 8:10:23 AM",
+                    "documentId": "957ee974f1c14e56bf4ce890e1c064d0",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "5\/27\/2020 6:30:00 PM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "General Registration",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "5\/18\/2020 8:11:49 AM",
+                    "documentId": "29c37f4c02f44be8bfa260cd83e0a712",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "5\/28\/2020 6:30:00 PM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Tankers",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "5\/18\/2020 8:12:51 AM",
+                    "documentId": "df0bca41dd654c99996b4fd2510b18fb",
+                    "equipmentGroupIds": [
+                        188,
+                        159
+                    ],
+                    "equipmentGroups": [],
+                    "expiration": "5\/29\/2020 6:30:00 PM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "IFTA License",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "5\/18\/2020 11:52:54 AM",
+                    "documentId": "f31e3f02e0ad4f578f0793db85716071",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "5\/25\/2020 6:30:00 PM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Alliance for Uniform Hazmat Transportation License",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "5\/18\/2020 1:58:47 PM",
+                    "documentId": "156e535673d542cc9a45bfb6274c34c4",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "5\/31\/2020 6:30:00 PM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "General Registration",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "5\/19\/2020 11:07:46 AM",
+                    "documentId": "674edf0a8ea442f3be0e12ae06930a2b",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "5\/28\/2020 6:30:00 PM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "LC Authority",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "8\/17\/2020 1:57:49 PM",
+                    "documentId": "cbcf57736cc1471db9b667f0efed49c5",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "8\/17\/2020 6:30:00 PM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Arizona Overweight\/Overlength Permit",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "8\/17\/2020 3:25:38 PM",
+                    "documentId": "52ff50a75a754f49b1ed2d7a634a8fff",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "8\/16\/2020 6:30:00 PM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "DNR Permit",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "9\/29\/2020 9:02:21 PM",
+                    "documentId": "24d4c01376df4c87b91877a0f4a80332",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "9\/30\/2022 5:00:00 AM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Montana Overweight\/Overlength Permit",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "12\/14\/2020 2:27:13 PM",
+                    "documentId": "bb220501707d49c499d8248f3db8457d",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "12\/17\/2020 6:30:00 PM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Binder Documents",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "12\/14\/2020 2:28:46 PM",
+                    "documentId": "65c50700e5d44371b23c7a1179367574",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "12\/30\/2022 6:00:00 AM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Binder Documents",
+                    "truckIds": [
+                        "1934",
+                        "2076",
+                        "2077",
+                        "2078",
+                        "2079",
+                        "2080",
+                        "2081",
+                        "2082",
+                        "2436",
+                        "2437"
+                    ],
+                    "Trucks": [
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "MT8256",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Heavy Truck-Roll-Off",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "WI-TB6161",
+                                "Number": "TB6161",
+                                "State": "WI"
+                            },
+                            "Location": {
+                                "City": "Fond du Lac",
+                                "Region": "",
+                                "State": "WI"
+                            },
+                            "TruckId": "1934",
+                            "VIN": "1M2AX16C5JM042256"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "KJ1497",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "CA-MX 2697",
+                                "Number": "MX 2697",
+                                "State": "CA"
+                            },
+                            "Location": {
+                                "City": "Mexico",
+                                "Region": "Mexico",
+                                "State": "CA"
+                            },
+                            "TruckId": "2076",
+                            "VIN": "19UUA8F50AA010910"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "KJ1496",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "CA-MX 2696",
+                                "Number": "MX 2696",
+                                "State": "CA"
+                            },
+                            "Location": {
+                                "City": "Mexico",
+                                "Region": "Mexico",
+                                "State": "CA"
+                            },
+                            "TruckId": "2077",
+                            "VIN": "19UUA8F50AA010909"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "KJ1495",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "CA-MX 2695",
+                                "Number": "MX 2695",
+                                "State": "CA"
+                            },
+                            "Location": {
+                                "City": "Mexico",
+                                "Region": "Mexico",
+                                "State": "CA"
+                            },
+                            "TruckId": "2078",
+                            "VIN": "19UUA8F50AA010908"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "KJ1494",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "CA-MX 2694",
+                                "Number": "MX 2694",
+                                "State": "CA"
+                            },
+                            "Location": {
+                                "City": "Mexico",
+                                "Region": "Mexico",
+                                "State": "CA"
+                            },
+                            "TruckId": "2079",
+                            "VIN": "19UUA8F50AA010907"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "KJ1493",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "CA-MX 2693",
+                                "Number": "MX 2693",
+                                "State": "CA"
+                            },
+                            "Location": {
+                                "City": "Mexico",
+                                "Region": "Mexico",
+                                "State": "CA"
+                            },
+                            "TruckId": "2080",
+                            "VIN": "19UUA8F50AA010906"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "KJ1492",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "CA-MX 2692",
+                                "Number": "MX 2692",
+                                "State": "CA"
+                            },
+                            "Location": {
+                                "City": "Mexico",
+                                "Region": "Mexico",
+                                "State": "CA"
+                            },
+                            "TruckId": "2081",
+                            "VIN": "19UUA8F50AA010905"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "KJ1491",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "CA-MX 2691",
+                                "Number": "MX 2691",
+                                "State": "CA"
+                            },
+                            "Location": {
+                                "City": "Mexico",
+                                "Region": "Mexico",
+                                "State": "CA"
+                            },
+                            "TruckId": "2082",
+                            "VIN": "19UUA8F50AA010904"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "KJ1499",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "CA-MX 2699",
+                                "Number": "MX 2699",
+                                "State": "CA"
+                            },
+                            "Location": {
+                                "City": "Mexico",
+                                "Region": "Mexico",
+                                "State": "CA"
+                            },
+                            "TruckId": "2436",
+                            "VIN": "19UUA8F50AA010912"
+                        },
+                        {
+                            "CompanyAccountNumber": "1000",
+                            "CompanyAssignedNumber": "KJ1498",
+                            "EquipmentCategory": {
+                                "Id": 1,
+                                "Name": "Tractor"
+                            },
+                            "EquipmentType": "Van",
+                            "IsArchived": false,
+                            "LicensePlate": {
+                                "Key": "CA-MX 2698",
+                                "Number": "MX 2698",
+                                "State": "CA"
+                            },
+                            "Location": {
+                                "City": "Mexico",
+                                "Region": "Mexico",
+                                "State": "CA"
+                            },
+                            "TruckId": "2437",
+                            "VIN": "19UUA8F50AA010911"
+                        }
+                    ]
+                },
+                {
+                    "ArchiveDate": null,
+                    "DotNumber": null,
+                    "IsArchived": false,
+                    "createdOn": "12\/15\/2020 4:44:31 PM",
+                    "documentId": "432d748a7c5f42678ccaec6f2c6ab8da",
+                    "equipmentGroupIds": [],
+                    "equipmentGroups": [],
+                    "expiration": "12\/16\/2020 6:30:00 PM",
+                    "isFileUploaded": true,
+                    "lastUpdated": null,
+                    "mimeType": "application\/pdf",
+                    "name": null,
+                    "permitType": "Binder Documents",
+                    "truckIds": [
+                        "Unassigned"
+                    ],
+                    "Trucks": []
+                }
+            ],
+            "MaxItemsPerPage": 23,
+            "Page": 1,
+            "TotalItemCount": 23,
+            "TotalItemCountMessage": null,
+            "TotalPageCount": 1
+        }
+    },
+    "Header": {
+        "Code": 2,
+        "Message": null,
+        "Response": "OK",
+        "Success": true
+    }
+}
